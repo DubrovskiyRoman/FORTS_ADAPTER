@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cgate">
+    <CLASSES>
+      <root url="jar://C:/Moscow Exchange/SpectraCGate/SDK/lib/cgate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
