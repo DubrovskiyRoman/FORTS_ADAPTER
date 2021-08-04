@@ -28,7 +28,7 @@ Provides general statistics on working with the PLAZA-2 gateway.
 Provides data from the back office.
 ## Tech Stack
 
-**Server:** Spring (Framework, Boot, JDBC, Data, MVC), Java 8, Maven, PostgreSQL, MySQL, 
+**Server:** Spring (Framework, Boot, JDBC, Data, MVC), Java 8, RabbitMQ,  Maven, PostgreSQL, MySQL, 
 MongoDB, Docker, Kubernetes
 
 **Patterns:** Bridge, builder, chain of responsobility, SAGA (in the process of implementation), CQRS   
