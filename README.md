@@ -31,7 +31,7 @@ Provides data from the back office.
 **Server:** Spring (Framework, Boot, JDBC, Data, MVC), Java 8, RabbitMQ,  Maven, PostgreSQL, MySQL, 
 MongoDB, Docker, Kubernetes
 
-**Patterns:** Bridge, builder, chain of responsobility, SAGA (in the process of implementation), CQRS   
+**Patterns:** Bridge, builder, chain of responsobility, SAGA (in the process of implementation), Api Composition   
 
 
   
