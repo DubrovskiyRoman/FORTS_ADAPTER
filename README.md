@@ -29,7 +29,7 @@ Provides data from the back office.
 ## Tech Stack
 
 **Server:** Spring (Framework, Boot, JDBC, Data, MVC), Java 8, RabbitMQ,  Maven, PostgreSQL, MySQL, 
-MongoDB, Docker, Kubernetes
+MongoDB, Docker
 
 **Patterns:** Bridge, builder, chain of responsobility, SAGA (in the process of implementation)   
 
